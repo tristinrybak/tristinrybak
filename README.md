@@ -1,8 +1,8 @@
 Hi, I’m Tristin!
 
-I'm a third-year software engineering major at the University of Central Missouri.
-Full stack developer in the making.
-Ask me about my issue with cereal.
+!I'm a third-year software engineering major at the University of Central Missouri.
+!Full stack developer in the making.
+!Ask me about my issue with cereal.
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=tristinrybak&count_private=true&show_icons=true&hide=contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristinrybak&layout=compact)
