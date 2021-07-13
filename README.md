@@ -2,7 +2,7 @@ Hi, I’m Tristin!
 
 >I'm a third-year software engineering major at the University of Central Missouri.
 
->Targeting an Internship or Entry Level Position with JAVA influence.
+>Targeting an Internship or Entry Level Position with a emphasis in JAVA.
 
 >Consider me Crypto fascinated.
 
