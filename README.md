@@ -1,14 +1,8 @@
 Hi, I’m Tristin!
 
->I'm a third-year software engineering major at the University of Central Missouri.
-
->Targeting an Internship or Entry Level Position with a emphasis in JAVA.
-
->Consider me Crypto fascinated.
+>I'm a software engineering major at the University of Central Missouri.
 
 >Full stack developer in the making.
-
->Ask me about my issue with cereal.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristinrybak&layout=compact)
 
